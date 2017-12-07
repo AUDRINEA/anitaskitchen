@@ -6,7 +6,8 @@
  }
 
 .breakfast {
-  background-image: "img/foodtop/breakfast.jpg"
+  background-image:("img/foodtop/breakfast.jpg")
+  height:50px
 }
 .morning {
   position: absolute;
