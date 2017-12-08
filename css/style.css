@@ -7,17 +7,20 @@
 
 .breakfast {
   background-image:("img/foodtop/breakfast.jpg")
-  height:50px
+  height:50px;
 }
 .morning {
   position: absolute;
-  top:30%
-  left:25%
+  top:30%;
+  left:25%;
   color:white;
-  font-size: 30px
+  font-size: 30px;
   font-family:cursive;
 }
-.doc {background color:grey;
-
+.audrine{
+  background-image: ("img/fastfood/chickenBurger.jpg")
   height:100px
+}
+
+
 }
