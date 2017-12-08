@@ -33,4 +33,10 @@ margin-top: 15%
 .divClassMargin{
   margin-right: 100%
   marin-top: 20%
+
+}
+#trevor{
+  background-size: cover;
+  background-image: url("..img/backgrounds/foodsBg.jpg");
+  height:400px;
 }
