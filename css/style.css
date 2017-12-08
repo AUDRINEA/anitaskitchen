@@ -37,6 +37,6 @@ margin-top: 15%
 }
 #trevor{
   background-size: cover;
-  background-image: url("..img/backgrounds/foodsBg.jpg");
+  background-image: url("../img/backgrounds/foodsBg.jpg");
   height:400px;
 }
