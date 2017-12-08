@@ -21,6 +21,12 @@
   background-image: ("img/fastfood/chickenBurger.jpg")
   height:100px
 }
-
+.divClassCenter{
+  margin-left: 20%;
+  margin-top: 10%
+}
+.divClassCentertext{
+margin-left:absolute;
+margin-top: 15%
 
 }
